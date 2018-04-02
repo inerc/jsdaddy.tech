@@ -1,0 +1,1928 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/inerc/jsdaddy.tech/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/inerc/jsdaddy.tech/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0f7ec4027822dd37a0180c916e2cb212",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b622a9df5af985c105ae8042ce8a14bc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f10e02a5523afaee899f984ef3ba19c4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "561ce8c3894c5a03f2817a512e1daafa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1954c0006df074be199230a8876df693",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "09221235be608f4cc4a499b838d4e533",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2967786d6ae24f940415fd04bb052f1b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5489cd794264bb0b509cecf25fbfa41f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.25",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.25",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "gatsby-1-config-extract-plugin",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "21f589fcf870803f473db91f33afed54",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.27",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/inerc/jsdaddy.tech/src/img",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "44fb7ed34368453c21269a1fe793766c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.41",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.41",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "94805ddf9331081b8fb87fb267c18d28",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "16edcbb31bd76fc1197b05b72c161b00",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.39",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7bf61966f41eb1a3eb96d1ba734ede5b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify-cms": {
+      "resolve": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-netlify-cms",
+      "id": "Plugin gatsby-plugin-netlify-cms",
+      "name": "gatsby-plugin-netlify-cms",
+      "version": "1.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "modulePath": "/Users/inerc/jsdaddy.tech/src/cms/cms.js"
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [
+        "onInitialClientRender"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech/node_modules/gatsby-plugin-netlify-cms",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify-cms",
+        "description": "A Gatsby plugin which generates the Netlify CMS single page app",
+        "version": "1.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "netlify",
+          "netlify-cms"
+        ],
+        "author": {
+          "name": "Shawn Erquhart",
+          "email": "shawn@erquh.art"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "html-webpack-include-assets-plugin",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "html-webpack-plugin",
+            "version": "^2.30.1"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "netlify-identity-widget",
+            "version": "^1.4.11"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "72b606fff7bd7bba46d5060b71c68c30",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/inerc/jsdaddy.tech",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "8d452b4240558cd74e684b0bff67a58b",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/inerc/jsdaddy.tech",
+      "packageJson": {
+        "name": "gatsby-starter-netlify-cms",
+        "description": "Example Gatsby, and Netlify CMS project",
+        "version": "1.1.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Austin Green",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bulma",
+            "version": "^0.6.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.63"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.18"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.18"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.5"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.17"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.13"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.2.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-load-script",
+            "version": "0.0.6"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.7.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "942d00951536a0c9e54987945c94cd13",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby + Netlify CMS Starter"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-04-02T15:27:58.110Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0767ded51400d3b1067152b0e4a9573d",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ddf9e3119f55106d1ba0ae3318484bed",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-03-31T20:16:16.884Z",
+      "accessTime": "2018-04-02T15:28:02.922Z",
+      "changeTime": "2018-03-31T20:16:16.884Z",
+      "birthTime": "2018-03-31T19:38:54.470Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779852,
+      "blocks": 0,
+      "atime": "2018-04-02T15:28:02.922Z",
+      "mtime": "2018-03-31T20:16:16.884Z",
+      "ctime": "2018-03-31T20:16:16.884Z",
+      "birthtime": "2018-03-31T19:38:54.470Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/about absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/about absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f45782a1f5b1b574398286ad6d2591a2",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/about",
+      "relativePath": "about",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-03-31T19:38:54.470Z",
+      "accessTime": "2018-04-02T15:28:02.924Z",
+      "changeTime": "2018-03-31T19:38:54.470Z",
+      "birthTime": "2018-03-31T19:38:54.470Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages",
+      "base": "about",
+      "ext": "",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779854,
+      "blocks": 0,
+      "atime": "2018-04-02T15:28:02.924Z",
+      "mtime": "2018-03-31T19:38:54.470Z",
+      "ctime": "2018-03-31T19:38:54.470Z",
+      "birthtime": "2018-03-31T19:38:54.470Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/blog absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d604884f55d92cfc08c7aa77a97ce25",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-03-31T21:53:40.195Z",
+      "accessTime": "2018-04-02T15:28:02.924Z",
+      "changeTime": "2018-03-31T21:53:40.195Z",
+      "birthTime": "2018-03-31T19:38:54.470Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779856,
+      "blocks": 0,
+      "atime": "2018-04-02T15:28:02.924Z",
+      "mtime": "2018-03-31T21:53:40.195Z",
+      "ctime": "2018-03-31T21:53:40.195Z",
+      "birthtime": "2018-03-31T19:38:54.470Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/product absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/product absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "047974a6e872249b060f6ec2fde8f148",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/product",
+      "relativePath": "product",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-03-31T19:38:54.471Z",
+      "accessTime": "2018-04-02T15:28:02.924Z",
+      "changeTime": "2018-03-31T19:38:54.471Z",
+      "birthTime": "2018-03-31T19:38:54.471Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages",
+      "base": "product",
+      "ext": "",
+      "name": "product",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779860,
+      "blocks": 0,
+      "atime": "2018-04-02T15:28:02.924Z",
+      "mtime": "2018-03-31T19:38:54.471Z",
+      "ctime": "2018-03-31T19:38:54.471Z",
+      "birthtime": "2018-03-31T19:38:54.471Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/index.js absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e9f8a0e05e4d778b7f69056faf9259b9",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 2334,
+      "prettySize": "2.33 kB",
+      "modifiedTime": "2018-03-31T20:16:16.883Z",
+      "accessTime": "2018-03-31T20:16:16.883Z",
+      "changeTime": "2018-03-31T20:16:16.884Z",
+      "birthTime": "2018-03-31T20:16:16.883Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599835083,
+      "blocks": 8,
+      "atime": "2018-03-31T20:16:16.883Z",
+      "mtime": "2018-03-31T20:16:16.883Z",
+      "ctime": "2018-03-31T20:16:16.884Z",
+      "birthtime": "2018-03-31T20:16:16.883Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file",
+      "children": [
+        "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee431923b895d30d57e6b876f0a90f76",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/about/about.md",
+      "relativePath": "about/about.md",
+      "extension": "md",
+      "size": 1528,
+      "prettySize": "1.53 kB",
+      "modifiedTime": "2018-03-31T19:38:54.470Z",
+      "accessTime": "2018-03-31T19:39:16.749Z",
+      "changeTime": "2018-03-31T19:38:54.470Z",
+      "birthTime": "2018-03-31T19:38:54.470Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages/about",
+      "base": "about.md",
+      "ext": ".md",
+      "name": "about",
+      "relativeDirectory": "about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779855,
+      "blocks": 8,
+      "atime": "2018-03-31T19:39:16.749Z",
+      "mtime": "2018-03-31T19:38:54.470Z",
+      "ctime": "2018-03-31T19:38:54.470Z",
+      "birthtime": "2018-03-31T19:38:54.470Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/404.js absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dab525fca0db8ad2986d5becbcd80a34",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 201,
+      "prettySize": "201 B",
+      "modifiedTime": "2018-03-31T19:38:54.470Z",
+      "accessTime": "2018-03-31T19:39:16.749Z",
+      "changeTime": "2018-03-31T19:38:54.470Z",
+      "birthTime": "2018-03-31T19:38:54.470Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779853,
+      "blocks": 8,
+      "atime": "2018-03-31T19:39:16.749Z",
+      "mtime": "2018-03-31T19:38:54.470Z",
+      "ctime": "2018-03-31T19:38:54.470Z",
+      "birthtime": "2018-03-31T19:38:54.470Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file",
+      "children": [
+        "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a2cc22cdf3def7d03e2b244458669a5b",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/product/product.md",
+      "relativePath": "product/product.md",
+      "extension": "md",
+      "size": 4357,
+      "prettySize": "4.36 kB",
+      "modifiedTime": "2018-03-31T19:38:54.471Z",
+      "accessTime": "2018-03-31T19:39:16.749Z",
+      "changeTime": "2018-03-31T19:38:54.471Z",
+      "birthTime": "2018-03-31T19:38:54.471Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages/product",
+      "base": "product.md",
+      "ext": ".md",
+      "name": "product",
+      "relativeDirectory": "product",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779861,
+      "blocks": 16,
+      "atime": "2018-03-31T19:39:16.749Z",
+      "mtime": "2018-03-31T19:38:54.471Z",
+      "ctime": "2018-03-31T19:38:54.471Z",
+      "birthtime": "2018-03-31T19:38:54.471Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "children": [
+        "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "df2ed8c2d912b2841467edac625d894e",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "extension": "md",
+      "size": 219,
+      "prettySize": "219 B",
+      "modifiedTime": "2018-03-31T19:38:54.471Z",
+      "accessTime": "2018-03-31T19:39:16.749Z",
+      "changeTime": "2018-03-31T19:38:54.471Z",
+      "birthTime": "2018-03-31T19:38:54.470Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages/blog",
+      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "ext": ".md",
+      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779857,
+      "blocks": 8,
+      "atime": "2018-03-31T19:39:16.749Z",
+      "mtime": "2018-03-31T19:38:54.471Z",
+      "ctime": "2018-03-31T19:38:54.471Z",
+      "birthtime": "2018-03-31T19:38:54.470Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file",
+      "children": [
+        "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c72a72bdbc6a54b5e956f7691727338d",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md",
+      "relativePath": "blog/2018-02-25-hello.md",
+      "extension": "md",
+      "size": 137,
+      "prettySize": "137 B",
+      "modifiedTime": "2018-03-31T19:38:54.471Z",
+      "accessTime": "2018-03-31T19:39:16.749Z",
+      "changeTime": "2018-03-31T19:38:54.471Z",
+      "birthTime": "2018-03-31T19:38:54.471Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages/blog",
+      "base": "2018-02-25-hello.md",
+      "ext": ".md",
+      "name": "2018-02-25-hello",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779858,
+      "blocks": 8,
+      "atime": "2018-03-31T19:39:16.749Z",
+      "mtime": "2018-03-31T19:38:54.471Z",
+      "ctime": "2018-03-31T19:38:54.471Z",
+      "birthtime": "2018-03-31T19:38:54.471Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9a9b18cb8bf2c4f5944c9f53fa5364e6",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "About our values",
+        "templateKey": "about-page",
+        "path": "/about",
+        "_PARENT": "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file",
+        "parent": "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/inerc/jsdaddy.tech/src/pages/about/about.md"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: product-page\npath: /products\ntitle: Our Coffee\nimage: /img/jumbotron.jpg\nheading: Какая-то страничка про кофе\ndescription: >-\n  Kaldi is the ultimate spot for coffee lovers who want to learn about their\n  java’s origin and support the farmers that grew it. We take coffee production,\n  roasting and brewing seriously and we’re glad to pass that knowledge to\n  anyone.\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "267555de40858b01d41965fa7d5b180f",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Our Coffee",
+        "templateKey": "product-page",
+        "path": "/products",
+        "image": "/img/jumbotron.jpg",
+        "heading": "Какая-то страничка про кофе",
+        "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file",
+        "parent": "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/inerc/jsdaddy.tech/src/pages/product/product.md"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\npath: intro\ntitle: 'Привет, я знаю про JAMstack'\ndate: 2016-12-17T15:04:10.000Z\ndescription: И это пример реализации\n---\nЭто настолько круто\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9258b6674b3c25acdf63e034bd66b9f1",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Привет, я знаю про JAMstack",
+        "templateKey": "blog-post",
+        "path": "intro",
+        "date": "2016-12-17T15:04:10.000Z",
+        "description": "И это пример реализации",
+        "_PARENT": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+        "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\npath: /hooy\ntitle: hello\ndate: 2018-02-25T08:51:10.717Z\ndescription: desc\n---\n![]()\n\n# kj.dshfjs\n\n_sdfsdfsdf_\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "af686e95468a103628f644752082a689",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "hello",
+        "templateKey": "blog-post",
+        "path": "/hooy",
+        "date": "2018-02-25T08:51:10.717Z",
+        "description": "desc",
+        "_PARENT": "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file",
+        "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md"
+    },
+    "/Users/inerc/jsdaddy.tech/src/img absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/img absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1d14a48cd710daa4a1832286b2d8a710",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/img",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-03-31T19:38:54.469Z",
+      "accessTime": "2018-04-02T15:28:02.944Z",
+      "changeTime": "2018-03-31T19:38:54.469Z",
+      "birthTime": "2018-03-31T19:38:54.469Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src",
+      "base": "img",
+      "ext": "",
+      "name": "img",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779846,
+      "blocks": 0,
+      "atime": "2018-04-02T15:28:02.944Z",
+      "mtime": "2018-03-31T19:38:54.469Z",
+      "ctime": "2018-03-31T19:38:54.469Z",
+      "birthtime": "2018-03-31T19:38:54.469Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/img/logo.svg absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/img/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b060b68d0b9204f8eb5658fc5129fd8f",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/img/logo.svg",
+      "relativePath": "logo.svg",
+      "extension": "svg",
+      "size": 1962,
+      "prettySize": "1.96 kB",
+      "modifiedTime": "2018-03-31T19:38:54.469Z",
+      "accessTime": "2018-03-31T19:39:16.749Z",
+      "changeTime": "2018-03-31T19:38:54.469Z",
+      "birthTime": "2018-03-31T19:38:54.469Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/img",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779848,
+      "blocks": 8,
+      "atime": "2018-03-31T19:39:16.749Z",
+      "mtime": "2018-03-31T19:38:54.469Z",
+      "ctime": "2018-03-31T19:38:54.469Z",
+      "birthtime": "2018-03-31T19:38:54.469Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/img/github-icon.svg absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/img/github-icon.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/img/github-icon.svg",
+      "relativePath": "github-icon.svg",
+      "extension": "svg",
+      "size": 2694,
+      "prettySize": "2.69 kB",
+      "modifiedTime": "2018-03-31T19:38:54.469Z",
+      "accessTime": "2018-03-31T19:39:16.749Z",
+      "changeTime": "2018-03-31T19:38:54.469Z",
+      "birthTime": "2018-03-31T19:38:54.469Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/img",
+      "base": "github-icon.svg",
+      "ext": ".svg",
+      "name": "github-icon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599779847,
+      "blocks": 8,
+      "atime": "2018-03-31T19:39:16.749Z",
+      "mtime": "2018-03-31T19:38:54.469Z",
+      "ctime": "2018-03-31T19:38:54.469Z",
+      "birthtime": "2018-03-31T19:38:54.469Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "children": [
+        "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "854efc73e081e7e21e3d336ec09755e4",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "relativePath": "blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "extension": "md",
+      "size": 233,
+      "prettySize": "233 B",
+      "modifiedTime": "2018-03-31T21:53:40.194Z",
+      "accessTime": "2018-03-31T21:53:40.194Z",
+      "changeTime": "2018-03-31T21:53:40.195Z",
+      "birthTime": "2018-03-31T21:53:40.194Z",
+      "root": "/",
+      "dir": "/Users/inerc/jsdaddy.tech/src/pages/blog",
+      "base": "2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "ext": ".md",
+      "name": "2016-12-175-making-sense-of-the-scaas-new-flavor-wheel",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599838788,
+      "blocks": 8,
+      "atime": "2018-03-31T21:53:40.194Z",
+      "mtime": "2018-03-31T21:53:40.194Z",
+      "ctime": "2018-03-31T21:53:40.195Z",
+      "birthtime": "2018-03-31T21:53:40.194Z"
+    },
+    "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\npath: intro\ntitle: 'Привет, я знаю хуй про JAMstack'\ndate: 2016-12-17T15:04:10.000Z\ndescription: И это пример реализации\n---\nЭто настолько круто хуй\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "581a8aa22dcb8cc5a5cdb36fdb447138",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Привет, я знаю хуй про JAMstack",
+        "templateKey": "blog-post",
+        "path": "intro",
+        "date": "2016-12-17T15:04:10.000Z",
+        "description": "И это пример реализации",
+        "_PARENT": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+        "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md"
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/Users/inerc/jsdaddy.tech/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "path": "/about"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/inerc/jsdaddy.tech/src/templates/about-page.js",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "12ba10682c8a36ff500fb27890ca0f4c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products": {
+      "layout": "index",
+      "jsonName": "products.json",
+      "internalComponentName": "ComponentProducts",
+      "path": "/products",
+      "component": "/Users/inerc/jsdaddy.tech/src/templates/product-page.js",
+      "componentChunkName": "component---src-templates-product-page-js",
+      "context": {
+        "path": "/products"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/inerc/jsdaddy.tech/src/templates/product-page.js",
+      "id": "SitePage /products",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "04d2f4ce5156537dcd467e3cb8a5da36",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hooy": {
+      "layout": "index",
+      "jsonName": "hooy.json",
+      "internalComponentName": "ComponentHooy",
+      "path": "/hooy",
+      "component": "/Users/inerc/jsdaddy.tech/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/hooy"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/inerc/jsdaddy.tech/src/templates/blog-post.js",
+      "id": "SitePage /hooy",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ea782b3a7096b6c9c5e56e9ae5a68d64",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /intro": {
+      "layout": "index",
+      "jsonName": "intro.json",
+      "internalComponentName": "ComponentIntro",
+      "path": "/intro",
+      "component": "/Users/inerc/jsdaddy.tech/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "intro"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/inerc/jsdaddy.tech/src/templates/blog-post.js",
+      "id": "SitePage /intro",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2529fe7d237e6d23f70c8174b6706b72",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/inerc/jsdaddy.tech/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/inerc/jsdaddy.tech/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d889b25b4bd852d07a7ede30090e301f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/inerc/jsdaddy.tech/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/inerc/jsdaddy.tech/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "782ec342eeb7934637b38802295e547a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/inerc/jsdaddy.tech/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/inerc/jsdaddy.tech/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e10ebaf7cc56a3712e46edc050ed9c91",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "b3902b1c39fc332478bd741ca5949661"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/Users/inerc/jsdaddy.tech/src/pages/blog/2018-02-25-hello.md absPath of file >>> MarkdownRemark": [
+        "/hooy"
+      ],
+      "/Users/inerc/jsdaddy.tech/src/pages/product/product.md absPath of file >>> MarkdownRemark": [
+        "/products"
+      ],
+      "/Users/inerc/jsdaddy.tech/src/pages/about/about.md absPath of file >>> MarkdownRemark": [
+        "/about"
+      ],
+      "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
+        "intro"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
