@@ -1684,70 +1684,6 @@
       "ctime": "2018-03-31T19:38:54.469Z",
       "birthtime": "2018-03-31T19:38:54.469Z"
     },
-    "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
-      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-      "children": [
-        "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "854efc73e081e7e21e3d336ec09755e4",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "relativePath": "blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "extension": "md",
-      "size": 233,
-      "prettySize": "233 B",
-      "modifiedTime": "2018-03-31T21:53:40.194Z",
-      "accessTime": "2018-03-31T21:53:40.194Z",
-      "changeTime": "2018-03-31T21:53:40.195Z",
-      "birthTime": "2018-03-31T21:53:40.194Z",
-      "root": "/",
-      "dir": "/Users/inerc/jsdaddy.tech/src/pages/blog",
-      "base": "2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "ext": ".md",
-      "name": "2016-12-175-making-sense-of-the-scaas-new-flavor-wheel",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8599838788,
-      "blocks": 8,
-      "atime": "2018-03-31T21:53:40.194Z",
-      "mtime": "2018-03-31T21:53:40.194Z",
-      "ctime": "2018-03-31T21:53:40.195Z",
-      "birthtime": "2018-03-31T21:53:40.194Z"
-    },
-    "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: blog-post\npath: intro\ntitle: 'Привет, я знаю хуй про JAMstack'\ndate: 2016-12-17T15:04:10.000Z\ndescription: И это пример реализации\n---\nЭто настолько круто хуй\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "581a8aa22dcb8cc5a5cdb36fdb447138",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Привет, я знаю хуй про JAMstack",
-        "templateKey": "blog-post",
-        "path": "intro",
-        "date": "2016-12-17T15:04:10.000Z",
-        "description": "И это пример реализации",
-        "_PARENT": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-        "parent": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/inerc/jsdaddy.tech/src/pages/blog/2016-12-175-making-sense-of-the-scaas-new-flavor-wheel.md"
-    },
     "SitePage /about": {
       "layout": "index",
       "jsonName": "about.json",
@@ -1766,7 +1702,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "12ba10682c8a36ff500fb27890ca0f4c",
+        "contentDigest": "1ac321dc2a18b4a2c1aaf016102eedf6",
         "owner": "internal-data-bridge"
       }
     },
@@ -1788,7 +1724,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "04d2f4ce5156537dcd467e3cb8a5da36",
+        "contentDigest": "ad7c9b8831fd118a2d1827022e847d4c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1810,7 +1746,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ea782b3a7096b6c9c5e56e9ae5a68d64",
+        "contentDigest": "434baa1be73d69b4a472f6be573e1176",
         "owner": "internal-data-bridge"
       }
     },
@@ -1832,7 +1768,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2529fe7d237e6d23f70c8174b6706b72",
+        "contentDigest": "3be89b4343fba8a418127dccb53620ef",
         "owner": "internal-data-bridge"
       }
     },
